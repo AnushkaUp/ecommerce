@@ -2,4 +2,4 @@
 
 This repository contains the code for my ecommerce website.
 
-To visit my ecommerce website, click [here](https://anushkaup.github.io/ecommerce1/)
+To visit my ecommerce website, click [here](https://ecommerce-anushka.herokuapp.com/)
